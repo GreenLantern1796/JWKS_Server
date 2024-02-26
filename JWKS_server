@@ -4,7 +4,9 @@ from cryptography.hazmat.primitives import serialization
 from cryptography.hazmat.primitives.asymmetric import rsa
 from cryptography.hazmat.backends import default_backend
 import jwt
-
+#Carlos Garcia
+#ID: 11427232
+#cmg0412
 app = Flask(__name__)
 
 # Dictionary to store RSA keys with their expiration time
